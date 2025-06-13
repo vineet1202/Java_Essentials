@@ -165,7 +165,7 @@ public class ListTester{
         System.out.println();
         System.out.println("After deletion -->");
         list.display();
-
+ 
 
     }
     
